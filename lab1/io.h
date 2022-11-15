@@ -1,0 +1,1 @@
+void io(char* rt,char* buf,int argnum,char* args);
